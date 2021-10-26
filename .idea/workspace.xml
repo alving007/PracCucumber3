@@ -5,24 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1a619db-6a05-4aac-8c84-d6593003515c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RoughWorks/SeleniumPrac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/base/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/base/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/base/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/Login/login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/Profile/profile.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/Signup/signup.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObject/Login_page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObject/Profile_page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObject/Signup_page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDef/Hook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDef/Login_steps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDef/Profile_steps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDef/Signup_steps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/CompanyName/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/CompanyName/AppTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="203sWmcqaow7xsVLl2tSRDteCPu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -45,5 +75,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
